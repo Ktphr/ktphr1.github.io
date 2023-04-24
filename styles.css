@@ -1,0 +1,85 @@
+
+html{
+     background-color: #605A5A;
+	}
+
+
+hr {
+	color: rgb(0,122,0);
+   }
+
+
+p {
+   font-family: Tahoma, Verdana, sans-serif;
+  }
+
+
+h1 {
+	color: rgb(0,80,0);
+	background-color: #605A5A;
+   }
+	
+	
+h2 {
+	color: rgb(0,80,0);
+	background-color: #605A5A;
+   }
+	
+	
+h3 {
+	color: rgb(0,80,0);
+	background-color: #605A5A;
+   }
+
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+   }
+	
+	
+li {
+	float: left;
+   }
+
+	
+a {
+   display: block;
+   padding: 8px;
+   background-color: black;
+  }
+
+	 
+li a {
+	  display: block;
+	  color: white;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+	 }
+
+		 
+li a:hover {
+		    background-color: #131;
+	       }
+
+			   
+.active {
+		 background-color: #04AA6D;
+	}
+
+			 
+table, th, td {
+	           border: 1px solid;
+			   border-color: black;
+			  }
+
+			  
+table {
+	   border-collapse: collapse;
+	   border-color: black;
+	   color: gray;
+	  }

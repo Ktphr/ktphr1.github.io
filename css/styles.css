@@ -81,5 +81,5 @@ table, th, td {
 table {
 	   border-collapse: collapse;
 	   border-color: black;
-	   color: gray;
+	   color: rgb(0,80,0);
 	  }
